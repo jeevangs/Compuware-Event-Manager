@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Description</key>
+		<string>Now, your nearest Cadillac showroom is in the palm of your hand. With the myCadillac Showroom app, you have direct access to helpful vehicle information and dealer details.</string>
+		<key>Image</key>
+		<string>mycadillac_icon.png</string>
+		<key>Name</key>
+		<string>myCadillac Showroom</string>
+		<key>Orientation</key>
+		<string>Landscape</string>
+		<key>Platform</key>
+		<string>iPhone and Android </string>
+		<key>ScreenShotOne</key>
+		<string>mycadillac_ssone</string>
+		<key>ScreenShotThree</key>
+		<string></string>
+		<key>ScreenShotTwo</key>
+		<string>mycadillac_sstwo.png</string>
+		<key>Type</key>
+		<string>Consumer Apps</string>
+		<key>iTunesURL</key>
+		<string>http://itunes.apple.com/us/app/mycadillac-showroom/id435633796</string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>justWink lets you personalize and send awesome, realistic greeting cards from your iPhone to your friends, family and beyond, via email or Facebook.</string>
+		<key>Image</key>
+		<string>justwink_icon.png</string>
+		<key>Name</key>
+		<string>justWink Greeting Cards</string>
+		<key>Orientation</key>
+		<string>Portrait</string>
+		<key>Platform</key>
+		<string>iPhone and Android</string>
+		<key>ScreenShotOne</key>
+		<string>justwink_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string>justwink_ssthree.png</string>
+		<key>ScreenShotTwo</key>
+		<string>justwink_sstwo.png</string>
+		<key>Type</key>
+		<string>Consumer Apps</string>
+		<key>iTunesURL</key>
+		<string>http://itunes.apple.com/app/justwink-greeting-cards/id439880532</string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>iRule HD - Universal remote control application for the iPad. It's easy to program and maintain, allowing you to control your home theater with a customized color touch-screen remote.</string>
+		<key>Image</key>
+		<string>irule_icon.png</string>
+		<key>Name</key>
+		<string>iRule HD</string>
+		<key>Orientation</key>
+		<string>Portrait</string>
+		<key>Platform</key>
+		<string>iPhone</string>
+		<key>ScreenShotOne</key>
+		<string>irule_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string>irule_ssthree.png</string>
+		<key>ScreenShotTwo</key>
+		<string>irule_sstwo.png</string>
+		<key>Type</key>
+		<string>Consumer Apps</string>
+		<key>iTunesURL</key>
+		<string>http://itunes.apple.com/us/app/irule/id352230010</string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>MakerQuest is actually two apps in one - both a handy scheduler and a challenging game!
+MakerQuest was used to scope out all there was to see and do at this year's Maker Faire Detroit. It helped you check the events and exhibits you wanted to visit and MakerQuest built a personalized agenda.</string>
+		<key>Image</key>
+		<string>makerquest_icon.png</string>
+		<key>Name</key>
+		<string>MakerQuest</string>
+		<key>Orientation</key>
+		<string>Portrait</string>
+		<key>Platform</key>
+		<string>iPhone and Android</string>
+		<key>ScreenShotOne</key>
+		<string>makerquest_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string>makerquest_ssthree.png</string>
+		<key>ScreenShotTwo</key>
+		<string>makerquest_sstwo.png</string>
+		<key>Type</key>
+		<string>Consumer Apps</string>
+		<key>iTunesURL</key>
+		<string>http://itunes.apple.com/us/app/makerquest/id452457302</string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>Crittenton is an iPhone app that shows the Emergency Room wait time. The app provides specific driving directions and hospital campus map (ER location) through Google maps integration.</string>
+		<key>Image</key>
+		<string>crittenton_icon.png</string>
+		<key>Name</key>
+		<string>Crittenton Hospital</string>
+		<key>Orientation</key>
+		<string>Portrait</string>
+		<key>Platform</key>
+		<string>iPhone</string>
+		<key>ScreenShotOne</key>
+		<string>crittenton_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string>crittenton_ssthree.png</string>
+		<key>ScreenShotTwo</key>
+		<string>crittenton_sstwo.png</string>
+		<key>Type</key>
+		<string>Enterprise Apps</string>
+		<key>iTunesURL</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>Volkswagen is an iPhone and iPad app used to compare VW products to competitor products and capture sales leads. It is used as an auto show and event marketing tool to generate interest in VW products and to capture leads. In keeping with its hip branding, the tool needed to be technically and visually engaging for prospective customers.</string>
+		<key>Image</key>
+		<string>volkswagen_icon.png</string>
+		<key>Name</key>
+		<string>Volkswagen</string>
+		<key>Orientation</key>
+		<string>Landscape</string>
+		<key>Platform</key>
+		<string>iPhone and iPad</string>
+		<key>ScreenShotOne</key>
+		<string>volkswagen_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string></string>
+		<key>ScreenShotTwo</key>
+		<string>volkswagen_sstwo.png</string>
+		<key>Type</key>
+		<string>Enterprise Apps</string>
+		<key>iTunesURL</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>Description</key>
+		<string>Walk Detroit is a GPS-based mobile app that allows users to discover (or rediscover) interesting facts about the Motor City. Targeted at both residents and out-of-towners, Walk Detroit provides imagery and information about some of the city's most famous landmarks in ways that are both compelling and memorable.</string>
+		<key>Image</key>
+		<string>walkdetroit_icon.png</string>
+		<key>Name</key>
+		<string>Walk Detroit</string>
+		<key>Orientation</key>
+		<string>Portrait</string>
+		<key>Platform</key>
+		<string>iPhone</string>
+		<key>ScreenShotOne</key>
+		<string>walkdetroit_ssone.png</string>
+		<key>ScreenShotThree</key>
+		<string>walkdetroit_ssthree.png</string>
+		<key>ScreenShotTwo</key>
+		<string>walkdetroit_sstwo.png</string>
+		<key>Type</key>
+		<string>Enterprise Apps</string>
+		<key>iTunesURL</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

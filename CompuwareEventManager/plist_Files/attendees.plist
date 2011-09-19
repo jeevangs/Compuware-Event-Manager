@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Biography</key>
+		<string>Geoffrey Moore is an author and speaker, widely recognized as a leading business advisor. Geoffrey divides his time between consulting on strategy and transformation challenges with senior executives and developing mental models to support his advisory practice. His newest book, "Escape Velocity: Free Your Company's Future from the Pull of the Past," will be published by HarperCollins in September 2011. 
+
+Geoffrey has made the understanding and effective exploitation of disruptive technologies the core of his life's work. His books, including "Crossing the Chasm" and "Dealing with Darwin," are best sellers and required reading at leading business schools. Geoffrey holds a bachelor's degree in literature from Stanford University and a doctorate in literature from the University of Washington. 
+</string>
+		<key>Name</key>
+		<string>Geoffrey Moore</string>
+		<key>Password</key>
+		<string>Cecgmoore1</string>
+		<key>Picture</key>
+		<string>geoffrey.moore.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Chairman Emeritus, TCG Advisors, The Chasm Institute and The Chasm Group, Venture Partner, Mohr Davidow Ventures 
+</string>
+		<key>Type</key>
+		<string>Featured Guest</string>
+		<key>TypeTitle</key>
+		<string>Featured Guests</string>
+		<key>Username</key>
+		<string>geoffrey.moore@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Philip Lay is a co-founder of TCG Advisors and has been a managing director there for the past 15 years. Philip works with CEOs, general managers and management teams in leading software, systems and services companies of all sizes and types. Frequent clients include Autodesk, Compuware, HP, Mentor-Graphics, Rackspace, SAP and many other public and private companies.
+
+Philip is a visiting professor in high-tech market development at the IESE business school in Barcelona, Spain, as well as a frequent conference keynote speaker and panel moderator. He has published a respected email newsletter, Under the Buzz, since 2000. 
+
+Philip graduated in French and History of Fine Arts in 1971 from the Universities of Reading (U.K.) and Aix-en-Provence (France).</string>
+		<key>Name</key>
+		<string>Philip Lay</string>
+		<key>Password</key>
+		<string>Cecplay1</string>
+		<key>Picture</key>
+		<string>philip.lay.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Managing Director, TCG Advisors  
+</string>
+		<key>Type</key>
+		<string>Featured Guest</string>
+		<key>TypeTitle</key>
+		<string>Featured Guests</string>
+		<key>Username</key>
+		<string>philip.lay@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Bob serves as Chief Executive Officer of Compuware Corporation. As CEO of Compuware, Bob is the daily and strategic leader of all company operations, with a focus on delivering continued profitable growth. Bob also serves on the company's Board of Directors.
+
+Prior to his current position, Bob was President and Chief Operating Officer of Compuware. Bob was also CEO of Compuware Covisint, the world's largest and most secure collaboration platform. He has additionally served as President of Future 3 and President of Coherent Networks, Inc. He is a graduate of the University of Michigan. </string>
+		<key>Name</key>
+		<string>Bob Paul</string>
+		<key>Password</key>
+		<string>Cecbpaul1</string>
+		<key>Picture</key>
+		<string>bob.paul.png</string>
+		<key>RealEmail</key>
+		<string>Bob.Paul@compuware.com</string>
+		<key>Title</key>
+		<string>Chief Executive Officer, Compuware</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>bob.paul@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Mark is driving Marketing Associates as the leader and tech-driven innovator in integrated marketing solutions through advanced technology-empowered marketing services. Prior to joining the company, he was a partner in the Deloitte &amp; Touche Corporate Finance LLC Financial Advisory Services practice, where he was global leader for its automotive industry segment as well as a General Securities Principal in the Investment Banking Group. Mark served as a commissioned officer in the U.S. Navy where he qualified as a nuclear engineer and Submarine Warfare Officer. </string>
+		<key>Name</key>
+		<string>Mark Petroff</string>
+		<key>Password</key>
+		<string>Cecmpetroff1</string>
+		<key>Picture</key>
+		<string>mark.petroff.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>President and Chief Executive Officer, Marketing Associates LLC</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>mark.petroff@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Curt consults with executives from a variety of technology-based disciplines to create synergistic solutions for patient care, business delivery and strategic development. Prior to joining Providence, he led IT Infrastructure and Operations at Western Wireless, where he managed an organization exceeding 75 IT professionals with an annual operating budget of $20 million. He earned a proven track record of managing and providing leadership to multiple high technology groups, including Network Operations, System and Database Administration, Call Center and Application Infrastructure Support, Infrastructure Project Management and technical writing teams. </string>
+		<key>Name</key>
+		<string>Curt Kwak</string>
+		<key>Password</key>
+		<string>Cecckwak1</string>
+		<key>Picture</key>
+		<string>curt.kwak.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Chief Information Officer - Western Washington Region, Providence Health &amp; Services</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>curt.kwak@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Mark leads strategy and implementation teams for Compuware products and services to ensure customers receive superior value for their investments. He collaborates with customers, analysts and industry thought leaders to identify the most pressing IT challenges businesses face today, while ensuring the strategic vision of Compuware's extensive portfolio continues to solve operational challenges as applications and infrastructures increase in complexity.
+
+Prior to joining Compuware Corporation, Mark held senior IT executive positions at General Motors, including Director of GM Global Computing Operations and Director of Supply Chain Operations. Before General Motors, he served in marketing, product management and information technology at Texas Instruments, where he managed marketing, EDI, purchasing, financial, human resources and other mission-critical applications. </string>
+		<key>Name</key>
+		<string>Mark Hillman</string>
+		<key>Password</key>
+		<string>Cecmhillman1</string>
+		<key>Picture</key>
+		<string>mark.hillman.png</string>
+		<key>RealEmail</key>
+		<string>Mark.Hillman@compuware.com</string>
+		<key>Title</key>
+		<string>Vice President of Strategy and Product Line Management, Compuware</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>mark.hillman@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>With over 25 years of leadership in the computer system and software business, John brings a wealth of experience to dynaTrace. Over his career, John has held senior executive positions at a number of highly successful growth companies such as Interwoven, Informix and NetFRAME Systems. In addition, he has served as CEO at publicly traded and venture-backed companies, including Interwoven, Adesso Systems, and Perspecta (acquired by Excite@Home). John is responsible for driving dynaTrace's leadership in Continuous Application Performance Management, and advancing customer success in applying dynaTrace's solution to make application performance an integral part of the application development life cycle. He holds an AB from Princeton, and is a Founding Fellow in New England's Clean Energy executive program.</string>
+		<key>Name</key>
+		<string>John Van Siclen</string>
+		<key>Password</key>
+		<string>Cecjvansiclen1</string>
+		<key>Picture</key>
+		<string>john.vansiclen.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>President, dynaTrace, a Division of Compuware</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>john.vansiclen@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Pat Stayer joined Compuware in 1989 as a sales executive, and quickly demonstrated a remarkable ability to not only win business, but to build strong, mutually rewarding relationships with his customers. He did this by working to understand their needs and challenges better, and more thoroughly, than his competition. Since then, Pat's responsibilities have grown steadily as he formed, trained, directed and inspired Compuware sales teams in both North and South America. 
+
+In his current position as Executive Vice President, Worldwide Solutions, Pat is responsible for the success of the company's APM, Mainframe, Uniface and Changepoint business units and their customers - in all of the 40 countries around the world where Compuware does business. </string>
+		<key>Name</key>
+		<string>Pat Stayer</string>
+		<key>Password</key>
+		<string>Cecpstayer1</string>
+		<key>Picture</key>
+		<string>pat.stayer.png</string>
+		<key>RealEmail</key>
+		<string>pat.stayer@compuware.com</string>
+		<key>Title</key>
+		<string>Executive Vice President, Worldwide Solutions, Compuware</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>pat.stayer@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Louis Chen is Senior Vice President and Chief Information Officer of international investment bank Houlihan Lokey. He oversees all technology-related issues and advises the firm on technology industry engagements. 
+
+Established in 1970, Houlihan Lokey has 14 offices in the United States, Europe and Asia, providing a wide array of financial services to more than 1,000 clients ranging from closely held companies to Global 500. 
+
+Prior to Houlihan Lokey, Louis held senior management positions, at oCen Communications, Transamerica Investment Services, IndyMac Bank, Trust Company of the West and The Capital Group.
+
+Louis received a B.S. in Computer Science from California State Polytechnic University, Pomona and an M.B.A. in Finance from the University of Southern California.</string>
+		<key>Name</key>
+		<string>Louis Chen</string>
+		<key>Password</key>
+		<string>Ceclchen1</string>
+		<key>Picture</key>
+		<string>louis.chen.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Vice President and Chief Information Office, Houlihan Lokey</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>louis.chen@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Bryon wears many hats at AT&amp;T. His primary job is managing the world's largest Oracle EBS supply chain platform, where more than $80 billion in products flow through its pipeline annually. This involves leading an IT team of over 110, managing a tightly integrated, extremely dynamic environment where innovation and continuous improvement is a necessity. His annual operating budget is around $25 million. 
+
+His other duties involve handling all the enterprise archiving duties (application retirement, data retirement and performance archive), virtual storage/cloning solutions and end-to-end monitoring solutions for the entire AT&amp;T enterprise. He has been very successful in driving technical/process solutions that are quickly adopted and standardized across the corporation.</string>
+		<key>Name</key>
+		<string>Bryon Rickey</string>
+		<key>Password</key>
+		<string>Cecbrickey1</string>
+		<key>Picture</key>
+		<string>bryon.rickey.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Director, ERP Operations, AT&amp;T</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>bryon.rickey@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>As the Senior Vice President and Chief Information Officer, Brent leads the AAA Information Technology organization headquartered in Dearborn, Michigan. He has a strong background in the financial services/insurance industry where he has held a variety of assignments, including 19 years at Allstate Insurance Company focused on multi-channel product/pricing, sales and claim technology. </string>
+		<key>Name</key>
+		<string>Brent Stahlheber</string>
+		<key>Password</key>
+		<string>Cecbstahlheber1</string>
+		<key>Picture</key>
+		<string>brent.stahlheber.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Vice President and Chief Information Officer, Auto Club Group - AAA </string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>brent.stahlheber@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Pat is senior vice president and chief operating officer of CareTech Solutions, an information technology and web products and services provider for more than 150 U.S. hospitals and health systems. He is responsible for the 24/7/365 availability and reliability of all client clinical and business systems, overseeing a nationwide network of more than 800 healthcare IT professionals.
+
+Pat joined CareTech in 2002 as Chief Technology Officer. Before CareTech, Pat was vice president and chief information officer of Hurley Medical Center in Flint, Mich., and director of Financial, Administrative and Managed Care Systems at Henry Ford Health System in Detroit. He holds a bachelor's in business administration from Northwood University and numerous information technology certifications.</string>
+		<key>Name</key>
+		<string>Pat Milostan</string>
+		<key>Password</key>
+		<string>Cecpmilostan1</string>
+		<key>Picture</key>
+		<string>pat.milostan.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Vice President and Chief Operating Officer, CareTech Solutions </string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>pat.milostan@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Steve Feldman has worked with Blackboard, an educational-focused independent software company, since 2003. He oversees Blackboard's Performance and Security Engineering practice. Steve is responsible for the responsiveness, scalability, reliability and vulnerability of Blackboard Learn, the most widely adopted learning management software system in the world. He has co-authored a number of published articles, papers and online resources with colleagues from Dell, Sun Microsystems, Microsoft, Quest Software and Citrix. He specializes in performance forensics, an emerging field in the space of software performance engineering. 
+
+Prior to Blackboard, Steve served in similar roles at Manugistics and USWeb. Steve has a B.A. from Georgetown University and an M.S. from the Johns Hopkins University Applied Physics Laboratory.</string>
+		<key>Name</key>
+		<string>Steve Feldman</string>
+		<key>Password</key>
+		<string>Cecsfeldman1</string>
+		<key>Picture</key>
+		<string>steve.feldman.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Performance and Security Engineering, Blackboard</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>steve.feldman@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Will Shupe is Executive Vice President at BB&amp;T. Headquartered in Winstom-Salem, North Carolina, BB&amp;T is among the nation's top financial holding organizations. Since 1989, BB&amp;T has acquired 60 community banks and thrifts, more than 85 insurance agencies and 35 non-bank financial services companies -- acquisitions that have contributed significantly to BB&amp;T's success. 
+
+As EVP, Will is responsible for providing high-quality business solutions through cost-effective consulting, support, acquisition, development and implementation of technology. Will joined BB&amp;T in April 2004 with prior experience at Home Depot, Delta Airlines, First Union and Citibank. A native of Iowa, Will is a graduate of Drake University in Des Moines, with a major in computer science and minor in math. </string>
+		<key>Name</key>
+		<string>Will Shupe</string>
+		<key>Password</key>
+		<string>Cecwshupe1</string>
+		<key>Picture</key>
+		<string>will.shupe.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Executive Vice President, BB&amp;T</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>will.shupe@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Wesley Hull leads an international support and PMO organization for S1, a publicly traded banking and payments software company ranked number 47 in the FinTech 100 by American Banker. Previously at S1, he ran the hosting operations organization. Prior to joining S1, Wes was the owner and CEO of a technology company ranked in the VARBusiness 500, the CIO of the third largest public college in Georgia and CTO for one of the nation's largest higher education non-profit organizations. </string>
+		<key>Name</key>
+		<string>Wesley Hull</string>
+		<key>Password</key>
+		<string>Cecwhull1</string>
+		<key>Picture</key>
+		<string>wesley.hull.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Divisional Vice President, Customer Suppport and PMO, S1 Corporation</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>wesley.hull@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Dr. David Kendrick is the principle investigator and CEO of the MyHealth Access Network, a Beacon Community. MyHealth is connecting dozens of hospitals, clinics, agencies, and payers representing millions of patients to advanced health information exchange, community-wide care coordination tools, and a robust decision support platform. David is an associate professor of internal medicine and pediatrics, and the Kaiser Chair of Community Medicine at the University of Oklahoma School of Community Medicine (SOCM). He also serves in the University Health Sciences Centers as Provost for Strategic Planning and is the Chief of the Division of Community Medical Informatics.</string>
+		<key>Name</key>
+		<string>Dr. David Kendrick</string>
+		<key>Password</key>
+		<string>Cecdkendrick1</string>
+		<key>Picture</key>
+		<string>david.kendrick.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Chief Executive Officer, MyHealth Access Network</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>david.kendrick@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Tom is responsible for Compuware's Products Division in North America, the company's largest region, providing a comprehensive portfolio of solutions for more than 3,000 customers across more than 30 industries to measure, manage, communicate and transform application service delivery. Tom joined Compuware in 2009 after more than 20 years in sales and leadership roles with companies such as SAP, i2 Technologies (now JDA) and EDS (now Hewlett-Packard). His experience includes senior roles in both large, market-leading enterprises and start-ups serving large multinational customers. 
+ 
+Tom has also been a featured speaker at industry and customer events. Tom earned his bachelor's in Business Administration, with concentration in Operations Research and Information Systems, from Eastern Michigan University. 
+</string>
+		<key>Name</key>
+		<string>Tom Meredith</string>
+		<key>Password</key>
+		<string>Cectmeredith1</string>
+		<key>Picture</key>
+		<string>tom.meredith.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Vice President, Products - North America, Compuware</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>tom.meredith@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Matthew is Senior Vice President and Chief Technology Officer at American Express Company, leading enterprise technology strategy, architecture and engineering, and technology operations and infrastructure delivery globally.
+
+Previously, Matthew was Senior Vice President, U.S. Service Delivery and Consumer Travel Technologies as well as Vice President, Banking and Brokerage for American Express.
+
+Prior to joining American Express in 1996, Matthew was head of Retail Banking Development at NatWest Bank in the United Kingdom and held leadership positions at Logica and Syntegra, two of the U.K.'s leading IT companies. 
+
+He earned a bachelor's degree at the University of Nottingham in the U.K. and completed post-graduate studies at the University of York. </string>
+		<key>Name</key>
+		<string>Matthew Robinson</string>
+		<key>Password</key>
+		<string>Cecmrobinson1</string>
+		<key>Picture</key>
+		<string>matthew.robinson.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Vice President and Chief Technology Officer, American Express Company</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>matthew.robinson@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Mark has been in the Service Engineering and Operations division for large-scale online services for more than 13 years. Currently, Mark leads the Yahoo Rewire Team, focused on Data Center, Service Engineering and Operational Efficiencies. Previously, Mark headed up the Data Delivery Services organization at Yahoo. Prior to Yahoo, Mark headed up several service development and engineering teams at Microsoft focused on mobile platforms and devices (Danger, Windows 6.5 and Windows 7). 
+
+Before Microsoft, he held development and leadership roles in enterprise management systems as well as workflow platforms. Mark has architected, developed, deployed and matured "best-in-class" enterprise management platforms for General Motors (EDS), Blue Cross Blue Shield of Michigan, Excite@Home and eBay. His areas of expertise include leadership, management solutions for mega-scale enterprise platforms, operations center tools, monitoring, processes, negotiations and vendor management.</string>
+		<key>Name</key>
+		<string>Mark Hydar</string>
+		<key>Password</key>
+		<string>Cecmhydar1</string>
+		<key>Picture</key>
+		<string>mark.hydar.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Vice President, Service Engineering &amp; Operations Rewire, Yahoo, Inc.</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>mark.hydar@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Paul is Chief Technologist for NASCO LLC, an entity owned by and exclusively serving Blue Cross Blue Shield Plans. With NASCO, Paul provides technical leadership over a single-system claims processing solution for national, state, large group, small group, individual and government programs. Prior to joining NASCO, he was an Executive Consultant with IBM where he also supported NASCO along with other key government and private sector organizations. Throughout his post-military career, Paul has focused almost exclusively on the payer-side healthcare space.</string>
+		<key>Name</key>
+		<string>Paul Snyder</string>
+		<key>Password</key>
+		<string>Cecpsnyder1</string>
+		<key>Picture</key>
+		<string>paul.snyder.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Chief Technologist, NASCO LLC</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>paul.snyder@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Isac works as Senior Director in Online Solutions for Carlson Wagonlit Travel. Headquartered in Minneapolis, Minnesota, Carlson Wagonlit Travel (CWT) is a global leader specializing in business travel management. CWT is dedicated to helping companies of all sizes, as well as government institutions and non-governmental organizations, optimize their travel programs and provide best-in-class service and assistance to travelers. 
+
+Previously, Isac was IT Director at Ark Travel of Sweden AB, which offers business and group travel services, as well as online booking service to travel advisory services and advice on security matters, travel policy assistance and travel statistics analysis. Ark Travel AB is now a subsidiary of CWT.</string>
+		<key>Name</key>
+		<string>Isac Wedegren</string>
+		<key>Password</key>
+		<string>Ceciwedegren1</string>
+		<key>Picture</key>
+		<string>isac.wedegren.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>Senior Director, Online Solutions, Carlson Wagonlit Travel</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>isac.wedegren@cpwrehost.com</string>
+	</dict>
+	<dict>
+		<key>Biography</key>
+		<string>Scott is System Strategy Director at Best Buy, the specialty retailer of consumer electronics. Scott has more than 25 years experience providing IT leadership, management and innovative direction. In his role, Scott leverages his experience in architecture, infrastructure, operations, project management, contract management, risk management, innovation and rapid prototyping. Scott's role is strategic and he partners with third-party service providers for the seamless delivery of services, process capabilities and maximization of financial outcome. Scott manages a portfolio of three business areas with a combined IT investment of more than $150 million and sets strategic direction for domestic enterprise systems as well as service-based businesses in China, the U.K., Mexico, Puerto Rico and Canada. </string>
+		<key>Name</key>
+		<string>Scott T. Anderson</string>
+		<key>Password</key>
+		<string>Cecsanderson1</string>
+		<key>Picture</key>
+		<string>scott.anderson.png</string>
+		<key>RealEmail</key>
+		<string></string>
+		<key>Title</key>
+		<string>System Strategy Director - GBS - IT Platform Services, Best Buy Co., Inc.</string>
+		<key>Type</key>
+		<string>Participant</string>
+		<key>TypeTitle</key>
+		<string>Attending Industry Thought Leaders</string>
+		<key>Username</key>
+		<string>scott.anderson@cpwrehost.com</string>
+	</dict>
+</array>
+</plist>

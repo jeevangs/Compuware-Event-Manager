@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Date</key>
+		<string>21-May-11</string>
+		<key>Day</key>
+		<string>Friday</string>
+		<key>EventLocation</key>
+		<string>Turnberry Room</string>
+		<key>EventName</key>
+		<string>Registration</string>
+		<key>Time</key>
+		<string>4:00 PM - 6:00 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>21-May-11</string>
+		<key>Day</key>
+		<string>Friday</string>
+		<key>EventLocation</key>
+		<string>St. Adndrews Gallery/St. Andrews West</string>
+		<key>EventName</key>
+		<string>Opening reception and dinner with Team Compuware ALMS drivers</string>
+		<key>Time</key>
+		<string>7:00 PM - 10:00 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Moderator Kickoff - Gary Beach, Publisher Emeritus of CIO Magazine</string>
+		<key>Time</key>
+		<string>8:30 AM - 8:45 AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Session 1: "Looking in the Rearview Mirror"</string>
+		<key>Time</key>
+		<string>8:45 AM - 10:15 AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Anywhere</string>
+		<key>EventName</key>
+		<string>Break</string>
+		<key>Time</key>
+		<string>10:15 AM - 10:35AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Session 2: "How to Effectively Drive Forward"</string>
+		<key>Time</key>
+		<string>10:35 AM - 12:00 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Satruday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Wrap-up</string>
+		<key>Time</key>
+		<string>12:00 PM - 12:10 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Peppoli Restaurant</string>
+		<key>EventName</key>
+		<string>Lunch</string>
+		<key>Time</key>
+		<string>12:10 PM - 1:00 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>22-May</string>
+		<key>Day</key>
+		<string>Saturday</string>
+		<key>EventLocation</key>
+		<string>Hotel main entrance</string>
+		<key>EventName</key>
+		<string>Depart for Mazda Raceway Laguna Seca</string>
+		<key>Time</key>
+		<string>1:30 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>23-May</string>
+		<key>Day</key>
+		<string>Sunday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Session 3: "How To Build a Winnint IT Strategy"</string>
+		<key>Time</key>
+		<string>8:00 AM - 10:00 AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>23-May</string>
+		<key>Day</key>
+		<string>Sunday</string>
+		<key>EventLocation</key>
+		<string>Hotel main entrance</string>
+		<key>EventName</key>
+		<string>Shuttle Departs for Golf</string>
+		<key>Time</key>
+		<string>10:30 AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>23-May</string>
+		<key>Day</key>
+		<string>Sunday</string>
+		<key>EventLocation</key>
+		<string>Pebble Beach Golf Links</string>
+		<key>EventName</key>
+		<string>Start of tee times</string>
+		<key>Time</key>
+		<string>11:20 AM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>23-May</string>
+		<key>Day</key>
+		<string>Sunday</string>
+		<key>EventLocation</key>
+		<string>Troon Room</string>
+		<key>EventName</key>
+		<string>Closing reception and dinner</string>
+		<key>Time</key>
+		<string>7:00 PM - 10:00 PM</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<string>24-May</string>
+		<key>Day</key>
+		<string>Monday</string>
+		<key>EventLocation</key>
+		<string>Home</string>
+		<key>EventName</key>
+		<string>Departures</string>
+		<key>Time</key>
+		<string>All Day</string>
+	</dict>
+</array>
+</plist>
